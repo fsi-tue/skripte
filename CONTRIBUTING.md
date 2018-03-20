@@ -1,5 +1,10 @@
 # How to Contribute
 
+[![Build Status](https://travis-ci.org/fsi-tue/skripte.svg?branch=master)](https://travis-ci.org/fsi-tue/skripte)
+![[license](https://github.com/fsi-tue/skripte/blob/master/LICENSE.txt)](https://img.shields.io/github/license/fsi-tue/skripte.svg)
+![[fsi](https://www.fsi.uni-tuebingen.de/)](https://img.shields.io/badge/Von%20der%20Fachschaft%20genehmigt-ja-blue.svg
+)
+
 Wir freuen uns, dass du dir ueberlegst, dich an diesem Repository zu beteiligen.
 Zunaechst solltest du wissen, dass du wenn du zu diesem Repository beizutragen
 moechtest, unseren
@@ -34,3 +39,11 @@ Falls du bereits mit git vertraut bist, befolge die folgenden Schritte:
 3. Mache deine Aenderungen lokal
 4. Committe deine Aenderungen und push sie auf deinen Fork
 5. Erstelle einen neuen Pull Request fuer deine Aenderungen
+
+
+### Continous Integration
+
+Um zu ueberpruefen, dass alle Verlinkungen zumindest existieren, nutzten wir
+[Travis](https://travis-ci.org/). Die aktuelle Konfiguration findest du
+[hier](https://github.com/fsi-tue/skripte/blob/master/.travis.yml) und eine
+Uebersicht der letzten Builts [hier](https://travis-ci.org/fsi-tue/skripte/).

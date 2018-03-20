@@ -1,7 +1,5 @@
 # Liste von Skripten und Mitschrieben
 
-![license](https://img.shields.io/github/license/fsi-tue/skripte.svg)
-
 Inzwischen gibt es zahlreiche solcher Sammelrepositories zu unterschiedlichen
 Themen. In diesem Repository sollen die zahlreichen Mitschrifften und Skripte,
 die jedes Semester von Studierenden der Informatik an der Universitaet Tuebingen
