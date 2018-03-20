@@ -20,4 +20,4 @@ erfahrt ihr unter [CONTRIBUTING](/CONTRIBUTING.md).
 
 #### Informatik
 
-+ [Informatik 1](/veranstaltungen/informatik-1.md)
++ [Informatik 1](/veranstaltungen/informatik/informatik-1.md)
