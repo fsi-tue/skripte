@@ -1,9 +1,8 @@
 # How to Contribute
 
 [![Build Status](https://travis-ci.org/fsi-tue/skripte.svg?branch=master)](https://travis-ci.org/fsi-tue/skripte)
-![[license](https://github.com/fsi-tue/skripte/blob/master/LICENSE.txt)](https://img.shields.io/github/license/fsi-tue/skripte.svg)
-![[fsi](https://www.fsi.uni-tuebingen.de/)](https://img.shields.io/badge/Von%20der%20Fachschaft%20genehmigt-ja-blue.svg
-)
+[![license](https://img.shields.io/github/license/fsi-tue/skripte.svg)](https://github.com/fsi-tue/skripte/blob/master/LICENSE.txt)
+[![fsi](https://img.shields.io/badge/Von%20der%20Fachschaft%20genehmigt-ja-blue.svg)](https://www.fsi.uni-tuebingen.de/)
 
 Wir freuen uns, dass du dir ueberlegst, dich an diesem Repository zu beteiligen.
 Zunaechst solltest du wissen, dass du wenn du zu diesem Repository beizutragen
