@@ -8,7 +8,7 @@
 Wir freuen uns, dass du dir überlegst, dich an diesem Repository zu beteiligen.
 Zunächst solltest du wissen, dass du, wenn du zu diesem Repository beitragen
 möchtest, unseren
-[Lizenzbestimmungen](https://github.com/fsi-tue/skripte/blob/master/LICENSE)
+[Lizenzbestimmungen](/LICENSE.txt)
 zustimmen musst. Wir verwenden in diesem Repository eine
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) Lizenz, was bedeutet,
 dass du den Inhalt beliebig teilen und verändern kannst unter der Bedingung,
