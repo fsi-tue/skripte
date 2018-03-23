@@ -16,6 +16,12 @@ erfahrt ihr unter [CONTRIBUTING](/CONTRIBUTING.md).
 + [Mathematik 2](/veranstaltungen/mathematik/mathematik-2.md)
 + [Mathematik 3](/veranstaltungen/mathematik/mathematik-3.md)
 
+
 #### Informatik
 
 + [Informatik 1](/veranstaltungen/informatik/informatik-1.md)
++ [Algorithmen](/veranstaltungen/informatik/algorithmen.md)
+
+#### Wahlpflichtmodule
+
++ [Functional Programming](/veranstaltungen/sonstige/functional-programming.md)
