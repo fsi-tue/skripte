@@ -1,8 +1,8 @@
 # Liste von Skripten und Mitschrieben
 
 Inzwischen gibt es zahlreiche solcher Sammelrepositories zu unterschiedlichen
-Themen. In diesem Repository sollen die zahlreichen Mitschrifften und Skripte,
-die jedes Semester von Studierenden der Informatik an der Universitaet Tuebingen
+Themen. In diesem Repository sollen die zahlreichen Mitschriften und Skripte,
+die jedes Semester von Studierenden der Informatik an der Universität Tübingen
 angefertigt werden, gesammelt werden.
 
 Hierzu ist jede und jeder herzlich eingeladen beizutragen! Genaueres dazu
