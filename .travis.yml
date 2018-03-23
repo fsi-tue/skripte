@@ -1,6 +1,10 @@
 language: ruby
 rvm:
 - 2.3.3
+addons:
+  apt:
+    packages:
+    - libcurl4-openssl-dev # Required to avoid TLS errors
 
 script:
   - set -e # halt script on error

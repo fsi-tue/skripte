@@ -8,7 +8,7 @@
 Wir freuen uns, dass du dir überlegst, dich an diesem Repository zu beteiligen.
 Zunächst solltest du wissen, dass du, wenn du zu diesem Repository beitragen
 möchtest, unseren
-[Lizenzbestimmungen](https://github.com/fsi-tue/skripte/blob/master/LICENSE)
+[Lizenzbestimmungen](/LICENSE.txt)
 zustimmen musst. Wir verwenden in diesem Repository eine
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) Lizenz, was bedeutet,
 dass du den Inhalt beliebig teilen und verändern kannst unter der Bedingung,
@@ -39,8 +39,20 @@ Falls du bereits mit Git vertraut bist, befolge die folgenden Schritte:
    ```
 3. Mache deine Änderungen lokal.
 4. Committe deine Änderungen und push sie auf deinen Fork.
-5. Erstelle einen neuen Pull Request für deine Änderungen.
+5. Optional: Am besten prüfst du deine Änderungen ggf. kurz (s. unten).
+6. Erstelle einen neuen Pull Request für deine Änderungen.
 
+
+### Testing your changes
+
+Je nach Komplexität deiner Änderung kannst du dir diesen Schritt auch sparen.
+Bei normalen Änderungen sollte es reichen, wenn du dir kurz über GitHub die
+Vorschau anzeigen lässt (du kannst den GitHub flavored Markdown code natürlich
+auch lokal, z. B. mit `Pandoc` rendern). Bei komplexeren Änderungen bietet es
+sich an die GitHub Pages auf dem eigenen Fork zu aktivieren: Settings ->
+GitHub Pages -> Source -> master branch -> Save. Nach ein paar Sekunden kannst
+du deine Seite über https://yourname.github.io/skripte/ aufrufen. Alternativ
+kannst du Jekyll auch lokal ausführen (advanced).
 
 ### Continuous Integration
 
