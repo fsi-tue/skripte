@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+include: [CONTRIBUTING.md]
+plugins:
+  - jemoji
