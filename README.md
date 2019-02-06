@@ -24,5 +24,5 @@ erfahrt ihr unter [CONTRIBUTING](/CONTRIBUTING.md).
 
 #### Wahlpflichtmodule
 
-+ [Functional Programming](/veranstaltungen/sonstige/functional-programming.md) 
-+ [Methoden der Algorithmik](/veranstaltungen/sonstige/Malgo.md)
++ [Functional Programming](/veranstaltungen/sonstige/functional-programming.md)
++ [Methoden der Algorithmik](/veranstaltungen/sonstige/methoden-der-algorithmik.md)
