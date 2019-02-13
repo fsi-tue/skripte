@@ -3,7 +3,13 @@
 ### Wintersemester 2016/2017
 
 - [Mitschrieb von Marius Hobbhahn, Florian Friedrich und Roman Schulte](https://github.com/FloriF/skript-mathe-3)
+
+<!--
+TODO: The repository was deleted for some reason, possible backup:
+https://github.com/Astror/Zeller-Mathe3-WS1718/commit/32f5bd4ae030dddddcc41e283277bac6333ade03
+Old link:
 - [Mitschrieb von Thomas Dinges und Jonas Wolf](https://github.com/JW301/DingesWolf-Mathe3-WS1617)
+-->
 
 
 ### Wintersemester 2015/2016
