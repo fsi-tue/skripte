@@ -21,6 +21,7 @@ erfahrt ihr unter [CONTRIBUTING](/CONTRIBUTING.md).
 
 + [Informatik 1](/veranstaltungen/informatik/informatik-1.md)
 + [Algorithmen](/veranstaltungen/informatik/algorithmen.md)
++ [Berechenbarkeit](/veranstaltungen/informatik/berechenbarkeit.md)
 
 #### Wahlpflichtmodule
 
