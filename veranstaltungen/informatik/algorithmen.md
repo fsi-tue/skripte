@@ -1,5 +1,9 @@
 # Skripte Algorithmen
 
+### Wintersemester 2022/2023
+
+- [Mitschrieb von Marvin Borner](https://github.com/marvinborner/LectureNotes/tree/main/notes/theo1)
+
 ### Sommersemester 2016
 
 - [Update von Finn Ickler](https://github.com/FinnIckler/Algorithmen-Skript-Update-SS-16)
